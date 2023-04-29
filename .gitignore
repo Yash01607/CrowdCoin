@@ -1,0 +1,8 @@
+node_modules
+.next
+/.pnp
+.pnp.js
+# testing
+# production
+ADDRESS
+.env.local
